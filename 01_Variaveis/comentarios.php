@@ -3,4 +3,6 @@
 <?php
 //Comentario de uma linha
 echo "Ola Mundo";
+print_r("<br>");
+print_r("Ola Mundo");
 ?>
