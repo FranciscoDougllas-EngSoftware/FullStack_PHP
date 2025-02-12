@@ -1,8 +1,13 @@
 <?php 
 
 //Definindo uma constante
-define("Nome", "Francisco");
-echo Nome;
+define("NOME", "Francisco");
+echo NOME;
+
+//NOME = "Silva";
+echo NOME;
+
+echo "<br>";
 
 //Definindo uma constante com array
 define("Times", ["Flamengo", "Vasco", "Botafogo", "Fluminense"]);
